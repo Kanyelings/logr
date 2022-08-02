@@ -1,2 +1,2 @@
-# logbook-gen-back
-Logbook generator backend
+# logbook generator
+Logbook generator angular app
